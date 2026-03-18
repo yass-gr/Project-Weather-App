@@ -140,6 +140,8 @@ function updateUI(data){
  elWindSpeed.textContent  = data.windSpeed
  elUvIndex.textContent  = data.uvIndex
 
-
+elHourItems.forEach(h => h.children[2].textContent = data[h.dataset.hour])
 
 }
+
+
