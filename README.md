@@ -20,7 +20,7 @@ A modern weather application that provides real-time weather data and forecasts 
 - Vanilla JavaScript (ES6+)
 - Webpack 5
 - CSS3 with custom properties
-- Visual Crossing API (free, no API key required)
+- Visual Crossing API (free)
 
 ## Getting Started
 
