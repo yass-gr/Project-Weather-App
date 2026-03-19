@@ -20,7 +20,7 @@ A modern weather application that provides real-time weather data and forecasts 
 - Vanilla JavaScript (ES6+)
 - Webpack 5
 - CSS3 with custom properties
-- Open-Meteo API (free, no API key required)
+- Visual Crossing API (free, no API key required)
 
 ## Getting Started
 
@@ -73,10 +73,4 @@ Project-Weather-App/
 └── webpack.config.js   # Webpack configuration
 ```
 
-## API
 
-This project uses the [Open-Meteo API](https://open-meteo.com/) for weather data. No API key is required.
-
-## License
-
-ISC
